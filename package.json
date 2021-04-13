@@ -1,0 +1,20 @@
+{
+  "name": "decision-tree-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyTonev/decision-tree-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyTonev/decision-tree-editor/issues"
+  },
+  "homepage": "https://github.com/AnthonyTonev/decision-tree-editor#readme"
+}
